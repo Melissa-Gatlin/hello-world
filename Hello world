@@ -1,0 +1,8 @@
+#include<iostream>
+Using std::count;
+
+Int main() {
+
+Cout<<"Hello world ";
+
+Return 0;}
